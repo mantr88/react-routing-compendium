@@ -1,4 +1,3 @@
-import { useState } from 'react';
 import { ProductList } from '../components/ProductList';
 import { getProducts } from '../fakeAPI';
 import { useSearchParams } from 'react-router-dom';
