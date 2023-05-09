@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_routing_compendium=self.webpackChunkreact_routing_compendium||[]).push([[805],{805:function(n,e,r){r.r(e),r.d(e,{NotFound:function(){return u}});var t=r(184),u=function(){return(0,t.jsxs)("main",{children:[(0,t.jsx)("h1",{children:"Page not found!\ud83e\udd72"}),(0,t.jsx)("p",{children:"Please try enter another URL"})]})}}}]);
+//# sourceMappingURL=805.274082bd.chunk.js.map
